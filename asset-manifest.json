@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sandhya-622/622-week5.git/static/css/main.db62923b.css",
-    "main.js": "/sandhya-622/622-week5.git/static/js/main.8c5d53e7.js",
-    "static/js/453.72ef9225.chunk.js": "/sandhya-622/622-week5.git/static/js/453.72ef9225.chunk.js",
-    "static/media/img.png": "/sandhya-622/622-week5.git/static/media/img.7d077d0ba543fa8030b8.png",
-    "static/media/new.webp": "/sandhya-622/622-week5.git/static/media/new.c255b7195709e9c1d024.webp",
-    "index.html": "/sandhya-622/622-week5.git/index.html",
-    "main.db62923b.css.map": "/sandhya-622/622-week5.git/static/css/main.db62923b.css.map",
-    "main.8c5d53e7.js.map": "/sandhya-622/622-week5.git/static/js/main.8c5d53e7.js.map",
-    "453.72ef9225.chunk.js.map": "/sandhya-622/622-week5.git/static/js/453.72ef9225.chunk.js.map"
+    "main.css": "/622-week5/static/css/main.db62923b.css",
+    "main.js": "/622-week5/static/js/main.29bdc96d.js",
+    "static/js/453.72ef9225.chunk.js": "/622-week5/static/js/453.72ef9225.chunk.js",
+    "static/media/img.png": "/622-week5/static/media/img.7d077d0ba543fa8030b8.png",
+    "static/media/new.webp": "/622-week5/static/media/new.c255b7195709e9c1d024.webp",
+    "index.html": "/622-week5/index.html",
+    "main.db62923b.css.map": "/622-week5/static/css/main.db62923b.css.map",
+    "main.29bdc96d.js.map": "/622-week5/static/js/main.29bdc96d.js.map",
+    "453.72ef9225.chunk.js.map": "/622-week5/static/js/453.72ef9225.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.8c5d53e7.js"
+    "static/js/main.29bdc96d.js"
   ]
 }
